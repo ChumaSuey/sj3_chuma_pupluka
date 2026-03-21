@@ -7,7 +7,9 @@ TO PLAY: Drop the folder in your sourceport of preference... that's it... have f
 ### Author info / Metadata
 
 Map: Castle Sewer Complex +1
+
 Filename: sj3_chuma_pupluka.bsp
+
 Authors: Chuma and Pupluka.
 
 
