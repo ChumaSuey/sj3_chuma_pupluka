@@ -10739,7 +10739,7 @@
 "classname" "trigger_secret"
 "spawnflags" "1"
 "targetname" "ts01"
-"killtarget" "lsecret01"
+"target" "lsecret01"
 // brush 0
 {
 ( 1360 -136 312 ) ( 1360 -120 304 ) ( 1360 -120 312 ) trigger [ 0 0 1.0000000000000002 42.00244 ] [ 0 -1.0000000000000002 0 23.999908 ] 180 0.33333418 0.33333322
